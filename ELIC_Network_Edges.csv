@@ -1,0 +1,128 @@
+Source,Target,Type,Weight
+Oskar Schell,Sensei Mark,Undirected,12
+Gerald Thompson,Oskar Schell,Undirected,55
+Gerald Thompson,Grandma,Undirected,2
+Grandma,Oskar Schell,Undirected,177
+Mom,Oskar Schell,Undirected,337
+Dad,Oskar Schell,Undirected,190
+Dad,Stephen Hawking,Undirected,1
+Oskar Schell,Stephen Hawking,Undirected,1
+Dad,Thomas,Undirected,1
+Thomas,Waiter,Undirected,10
+Grandma,Thomas,Undirected,185
+Grandma,Mom,Undirected,16
+Oskar Schell,Stan,Undirected,14
+Oskar Schell,Walt,Undirected,38
+Oskar Schell,The manager of the art supply store,Undirected,56
+Aaron Black,Oskar Schell,Undirected,42
+Abby Black,Oskar Schell,Undirected,199
+Mom,Thomas,Undirected,3
+Anna,Thomas,Undirected,53
+Grandma's father,Thomas,Undirected,8
+Simon Goldberg,Thomas,Undirected,11
+Grandma's father,Simon Goldberg,Undirected,2
+Anna,Simon Goldberg,Undirected,1
+Anna,Oskar Schell,Undirected,3
+Mrs. Rigley,Oskar Schell,Undirected,3
+Grandma,Mrs. Rigley,Undirected,2
+Jimmy,Oskar Schell,Undirected,29
+Abe Black,Oskar Schell,Undirected,10
+Ada Black,Oskar Schell,Undirected,36
+Mr. Black,Oskar Schell,Undirected,255
+Ghost,Grandma,Undirected,7
+Ghost,Thomas,Undirected,1
+Thomas,Tomoyasu,Undirected,1
+Interviewer,Tomoyasu,Undirected,12
+Oskar Schell,Tomoyasu,Undirected,1
+Mr. Keegan,Oskar Schell,Undirected,2
+Jimmy,Mr. Keegan,Undirected,2
+Matt,Oskar Schell,Undirected,2
+Dave,Oskar Schell,Undirected,1
+Dave,Steve,Undirected,1
+Jake,Steve,Undirected,1
+Jake,Oskar Schell,Undirected,1
+Feliz,Oskar Schell,Undirected,8
+Alice,Oskar Schell,Undirected,10
+Allen,Oskar Schell,Undirected,11
+Arnold,Oskar Schell,Undirected,3
+Arnold,Mr. Black,Undirected,1
+Dr. Fein,Oskar Schell,Undirected,58
+Oskar Schell,Thomas,Undirected,64
+Masako,Mom,Undirected,3
+Masako,Oskar Schell,Undirected,1
+Classmate,Oskar Schell,Undirected,17
+Classmate,Jimmy,Undirected,1
+Missing Girl's Father,Oskar Schell,Undirected,1
+Interviewer,Missing Girl's Father,Undirected,7
+Grandma,Interviewer,Undirected,1
+Farley,Oskar Schell,Undirected,2
+Fo Black,Oskar Schell,Undirected,4
+Georgia Black,Oskar Schell,Undirected,5
+Georgia Black,Mr. Black,Undirected,1
+Nancy,Oskar Schell,Undirected,8
+Oskar Schell,Ruth,Undirected,31
+Mr. Black,Ruth,Undirected,45
+Officer,Thomas,Undirected,2
+Doorman,Thomas,Undirected,6
+Thomas,Woman,Undirected,5
+Old Man,Woman,Undirected,1
+Old Man,Thomas,Undirected,10
+Old Man,Oskar Schell,Undirected,1
+Oskar Schell,Realtor,Undirected,24
+Oskar Schell,Peter Black,Undirected,28
+Desk Woman,Oskar Schell,Undirected,1
+Desk Woman,William Black,Undirected,1
+Oskar Schell,William Black,Undirected,222
+The Renter,William Black,Undirected,2
+Oskar Schell,The Renter,Undirected,35
+Grandma,Grandma's father,Undirected,7
+Anna,Grandma,Undirected,2
+Anna,Ron Black,Undirected,1
+Oskar Schell,Ron Black,Undirected,15
+Gerald Thompson,Mom,Undirected,1
+Mom,The Renter,Undirected,1
+Oskar Schell,Waiter,Undirected,1
+Stan,Waiter,Undirected,1
+Mom,Stan,Undirected,1
+Anna,Mom,Undirected,2
+Grandma,Mr. Keegan,Undirected,1
+Mr. Keegan,Thomas,Undirected,1
+Guard,Oskar Schell,Undirected,2
+Grandma's father,Oskar Schell,Undirected,1
+Grandma's father,Mom,Undirected,1
+Mom,Mr. Richter,Undirected,1
+Mr. Richter,Walt,Undirected,1
+Stan,Walt,Undirected,1
+Grandma's father,Stan,Undirected,2
+Grandma's father,Mrs. Rigley,Undirected,1
+Grandma,Jimmy,Undirected,1
+Jimmy,Thomas,Undirected,1
+Doorman,Oskar Schell,Undirected,2
+Dad,Grandma,Undirected,1
+Grandma,The manager of the art supply store,Undirected,1
+Aaron Black,The manager of the art supply store,Undirected,1
+Aaron Black,Thomas,Undirected,1
+Abe Black,Thomas,Undirected,1
+Abe Black,Grandma,Undirected,1
+Grandma,Mr. Black,Undirected,2
+Mom,Mr. Black,Undirected,2
+Mom,Nancy,Undirected,1
+Grandma,Nancy,Undirected,1
+Anna,Gerald Thompson,Undirected,1
+Abby Black,Grandma,Undirected,1
+Ada Black,Grandma,Undirected,2
+Georgia Black,Mom,Undirected,1
+Georgia Black,Ruth,Undirected,1
+Grandma,Ruth,Undirected,1
+Desk Woman,Grandma,Undirected,1
+Stan,Thomas,Undirected,1
+Grandma,William Black,Undirected,2
+Gerald Thompson,William Black,Undirected,1
+Mr. Black,Thomas,Undirected,1
+Allen,Mr. Black,Undirected,1
+Oskar Schell,Woman,Undirected,1
+The Renter,Woman,Undirected,1
+Anna,Stan,Undirected,1
+Dr. Fein,Mom,Undirected,1
+Dr. Fein,Old Man,Undirected,1
+Mom,Old Man,Undirected,1
